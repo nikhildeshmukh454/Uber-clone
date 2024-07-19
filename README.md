@@ -1,4 +1,4 @@
-#uber-clone
+# uber-clone
 ## Overview
 
 The Ride Management System is a C++ application designed to facilitate and manage rides between various places. The system includes functionalities for users (drivers and riders) to interact with, process payments, and handle ride reviews. The application models real-world scenarios such as route finding, ride completion, and payment processing using C++ data structures and algorithms.
